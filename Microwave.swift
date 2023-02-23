@@ -52,7 +52,7 @@ do {
     //Math
     time = 60 * (1 + (item - 1.0) / 2.0)
     print("The required time is", time, "seconds.")
-  } else if (food == 1) {
+  } else if (food == 3) {
     //Math
     time = 105 * (1 + (item - 1.0) / 2.0)
     print("The required time is", time, "seconds.")
